@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kCbroutBAs6ouq6xSf2GuSk8nZiHSMkSrvpdiqomFAZcBru1IUBCmbQsM6h1WVNNG1AM6SVfXTyVNS/MUIDMGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hyunk\\source\\WCTC\\MovieLibrary\\MovieLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hyunk\\.nuget\\packages\\nlog\\5.1.1\\nlog.5.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
