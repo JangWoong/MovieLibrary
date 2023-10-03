@@ -1,0 +1,14 @@
+2023-10-03 14:16:02.5205|INFO|Program|Program started
+2023-10-03 14:16:02.5394|INFO|Program|Program ended
+2023-10-03 14:26:52.7570|INFO|Program|Program started
+2023-10-03 14:26:52.8158|INFO|MovieFile|Movies in file 9125
+2023-10-03 14:26:52.8249|INFO|Program|Program ended
+2023-10-03 14:29:21.8431|INFO|Program|Program started
+2023-10-03 14:29:21.8930|INFO|MovieFile|Movies in file 9125
+2023-10-03 14:29:26.0224|INFO|Program|User choice: "1"
+2023-10-03 14:29:27.9417|INFO|Program|User choice: "2"
+2023-10-03 14:29:30.9166|INFO|Program|User choice: ""
+2023-10-03 14:29:30.9166|INFO|Program|Program ended
+2023-10-03 14:37:57.9859|INFO|Program|Program started
+2023-10-03 14:37:58.0502|INFO|MovieFile|Movies in file 9125
+2023-10-03 14:38:02.9305|INFO|Program|User choice: "1"

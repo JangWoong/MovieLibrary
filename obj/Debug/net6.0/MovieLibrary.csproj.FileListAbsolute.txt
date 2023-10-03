@@ -13,3 +13,5 @@ C:\Users\hyunk\source\WCTC\MovieLibrary\obj\Debug\net6.0\refint\MovieLibrary.dll
 C:\Users\hyunk\source\WCTC\MovieLibrary\obj\Debug\net6.0\MovieLibrary.pdb
 C:\Users\hyunk\source\WCTC\MovieLibrary\obj\Debug\net6.0\MovieLibrary.genruntimeconfig.cache
 C:\Users\hyunk\source\WCTC\MovieLibrary\obj\Debug\net6.0\ref\MovieLibrary.dll
+C:\Users\hyunk\source\WCTC\MovieLibrary\bin\Debug\net6.0\NLog.dll
+C:\Users\hyunk\source\WCTC\MovieLibrary\obj\Debug\net6.0\MovieLibrary.csproj.CopyComplete
